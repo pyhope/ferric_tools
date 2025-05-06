@@ -100,9 +100,9 @@ This project is released under the MIT License.
 
 For questions, suggestions, or collaboration, please contact:
 **Yihang Peng**
-Ph.D. Candidate
-Deng Research Group | Department of Geosciences
-308A Guyot Hall
-Princeton University
-Princeton, NJ 08544, USA
-Email: yhpeng@princeton.edu
+Ph.D. Candidate  
+Deng Research Group | Department of Geosciences  
+308A Guyot Hall  
+Princeton University  
+Princeton, NJ 08544, USA  
+Email: yhpeng@princeton.edu  
