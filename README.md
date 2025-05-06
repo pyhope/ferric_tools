@@ -98,9 +98,9 @@ This project is released under the MIT License.
 
 ## Contact
 
-For questions, suggestions, or collaboration, please contact:
-**Yihang Peng**
-Ph.D. Candidate  
+For questions, suggestions, or collaboration, please contact:  
+**Yihang Peng**  
+Ph.D. Candidate 
 Deng Research Group | Department of Geosciences  
 308A Guyot Hall  
 Princeton University  
